@@ -1,5 +1,5 @@
 const core = require("@actions/core");
-const git = require("@actions/github");
+const github = require("@actions/github");
 
 try {
   // throw new Error("some error message");
